@@ -3,7 +3,12 @@
 #
 # [14] Longest Common Prefix
 #
-
+"""
+Accepted
+124/124 cases passed (35 ms)
+Your runtime beats 94.1 % of python3 submissions
+Your memory usage beats 50.09 % of python3 submissions (13.9 MB)
+"""
 # @lc code=start
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:

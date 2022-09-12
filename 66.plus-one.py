@@ -3,7 +3,12 @@
 #
 # [66] Plus One
 #
-
+"""
+Accepted
+111/111 cases passed (43 ms)
+Your runtime beats 73.08 % of python3 submissions
+Your memory usage beats 58.73 % of python3 submissions (13.8 MB)
+"""
 # @lc code=start
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:

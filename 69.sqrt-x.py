@@ -3,7 +3,12 @@
 #
 # [69] Sqrt(x)
 #
-
+"""
+Accepted
+1017/1017 cases passed (42 ms)
+Your runtime beats 88.41 % of python3 submissions
+Your memory usage beats 56.85 % of python3 submissions (13.8 MB)
+"""
 # @lc code=start
 class Solution:
     def mySqrt(self, s: int) -> int:
