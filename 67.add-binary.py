@@ -3,18 +3,17 @@
 #
 # [67] Add Binary
 #
+'''
+Accepted
+294/294 cases passed (29 ms)
+Your runtime beats 93.78 % of python3 submissions
+Your memory usage beats 97.78 % of python3 submissions (13.8 MB)
+'''
 
 # @lc code=start
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
-        l = max(a,b)
-        s = min(a,b)
-        carry = 0
-        result = ""
-        while len(s) != 0:
-            if s[-1] == '1':
-                if l[]
-            s = s[:-1]
+        return bin(int(a, 2) + int(b, 2))[2:]
         
             
             
